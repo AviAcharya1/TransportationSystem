@@ -31,7 +31,7 @@ This Transportation Information System is a static web application that provides
 TransportationSystem/
 │
 ├── index.html
-├── style.css
+├── styles.css
 ├── script.js
 └── README.md
 
